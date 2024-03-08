@@ -20,7 +20,6 @@
       <button class="botao">Atualizar meu currículo</button>
 
 
-    </div>
   </section>
  
 </body>
