@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <body>
     <h2>Olá devs!</h2>
-    <dev> 
-        <p>Aula 01</p>
-        
-        <a href="#"><p>Slides da Aula</p></a>
-
-        <section class="conteudo-principal"></section>
-            <h2 class="titulo-principal">Meus Objetivos do ano_</h2>
-            <div class="botoes"></div>
-            
-            </dev>
+<body>
+  <section class="conteudo-principal">
+    <h2 class="titulo-principal">Meus Objetivos do ano_</h2>
+    <div class="botoes">
+      <button class="botao">Cursos na Alura</button>
+      <button class="botao">Criar projetos em JavaScript</button>
+      <button class="botao">Criar um portfólio</button>
+      <button class="botao">Atualizar meu currículo</button>
+    </div>
+  </section>
+</body>
+    
 </html>
